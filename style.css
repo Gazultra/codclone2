@@ -1,0 +1,194 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+
+
+body {
+    background-color: black;
+    
+}
+
+nav {
+
+
+    display: flex;
+    align-items: flex-start;
+    flex-direction: row;
+    justify-content: space-between;
+    font-family: 'Montserrat', sans-serif;
+    padding: 18px 15px;
+    height: 50px;
+    margin: 0;
+
+    
+
+
+}
+#navlinkwrap a {
+
+    margin: 0;
+    color: #969696;
+    font-weight: 700;
+    height: 50px;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    line-height: 12px;
+    text-decoration: none;
+    padding-right: 10px;
+   /* align-items: flex-start; */
+}
+
+#endgame a {
+
+    color: #969696;
+    font-weight: 700;
+    height: 50px;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    line-height: 12px;
+    text-decoration: none;
+}
+
+#endgame b {
+
+    color: #f8f8f8;
+    font-weight: 700;
+    height: 50px;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    line-height: 12px;
+    text-decoration: none;
+}
+    #codlogo {
+    width: 120px;
+    padding-right: 50px;
+}
+
+    #codtop1 {
+
+        /* width: 1600px; */
+        height: 300px;
+    
+  }
+    .overlay {
+   
+    float: left;
+    margin-left: 0px 0px 0px 30px;
+    position: absolute;
+    width: 450px;
+    top: 300px; 
+    left: 100px;
+
+    }
+
+      .toplot {
+        width: 100vw;
+        height: 640px;
+        background-image: url("./codtopimg.jpeg");
+        background-position: -200px;
+        background-repeat: no-repeat;
+      }
+
+    #mw2logo {
+        width: 450px;
+
+    }
+
+  h2 {
+        color: #f8f8f8;
+        font-family: 'Montserrat', sans-serif;
+        background-color: rgba(0, 0, 0, 0);
+        font-size: 18px;
+        font-weight: lighter;
+        text-transform: uppercase;
+        text-align: center;
+    }
+      #buttons {
+        margin-left: 50px;
+      }
+      
+      button {
+    
+        padding: 13px 0px;
+        font-family: 'Montserrat', sans-serif;
+        background-color: #f8f8f8;
+        font-size: 17px;
+        color: #33312f;
+        font-weight: 700;
+        text-transform: uppercase;
+        padding-left: 30px;
+        padding-right: 30px;
+      }
+       
+        
+       #coopcod {
+          display: flex;
+          justify-content: flex-end;
+          width: 533.273px;
+          height: 369.965px;
+
+        } 
+
+      
+
+       #mw2logogrey {
+        width: 75px;
+        height: 30px;
+       }
+
+       #leaguecoop {
+        display: inline-flex;
+       }
+
+       .overlay1 {
+        display: flex;
+        align-items: flex-end;
+        background-image: url("./12-15-cod_hub-mw2-coop_small-tout.jpeg");
+        background-repeat: no-repeat;
+        width: 533.273px;
+        height: 369.965px;
+        margin-right: 250px;
+        top: 900px; 
+    
+      
+    
+        } 
+        
+        
+          #leaguemen {
+          display: flex;
+          align-items: flex-start; 
+          background-image: url("./CDL_Tout_Desktop_Ops.png"); 
+          background-repeat: no-repeat;
+          width: 1066.550PX;
+          height: 369.965px;
+          top: 900px; 
+      
+        
+      
+          } 
+
+          #cdlleaguelogo {
+
+            width: 300px;
+          }
+
+
+          .overlay2 {
+
+            float: left;
+            position: absolute;
+            margin-top: 100px;
+            margin-left: 100px;
+
+          }
+
+         h3{
+
+            float: left;
+            position: absolute;
+          }
+
+
